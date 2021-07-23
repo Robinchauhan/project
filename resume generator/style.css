@@ -1,0 +1,25 @@
+
+#cv-template{
+    /* display: none; */
+}
+
+.myimg{
+    /* border: 1px solid rebeccapurple; */
+    border-radius: 50%;
+    width: 200px;
+}
+
+.background{
+    background-color: aqua;
+}
+
+/* @media print
+{
+body * { visibility: hidden; }
+#cv-template * { visibility: visible; }
+#cv-template { position: absolute; top: 40px; left: 30px; }
+} */
+/* @media print
+{
+#cv-form{ display: none; }
+} */
